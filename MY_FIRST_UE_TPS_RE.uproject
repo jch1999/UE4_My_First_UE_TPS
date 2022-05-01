@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MY_FIRST_UE_TPS_RE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

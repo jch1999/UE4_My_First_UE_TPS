@@ -4,13 +4,14 @@
 		"Surface": "SurfaceType_Default",
 		"ImpactParticleFX": "ParticleSystem'/Game/JCH/Particles/Generic_Impact.Generic_Impact'",
 		"ImpactSound_Cue": "SoundCue'/Game/JCH/Sounds/Impacts/Generic_Ground_Impacts.Generic_Ground_Impacts'",
-		"ImpactDecal": "Material'/Game/Effects/Decals/Decals_Gen1.Decals_Gen1'",
+		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
 		"DecalSize":
 		{
 			"X": 5,
 			"Y": 5,
 			"Z": 5
-		}
+		},
+		"FootstepParticleFX": "None"
 	},
 	{
 		"Name": "SurfaceType1",
@@ -23,7 +24,8 @@
 			"X": 5,
 			"Y": 5,
 			"Z": 5
-		}
+		},
+		"FootstepParticleFX": "None"
 	},
 	{
 		"Name": "SurfaceType2",
@@ -36,20 +38,22 @@
 			"X": 5,
 			"Y": 5,
 			"Z": 5
-		}
+		},
+		"FootstepParticleFX": "None"
 	},
 	{
 		"Name": "SurfaceType3",
 		"Surface": "SurfaceType3",
 		"ImpactParticleFX": "ParticleSystem'/Game/StarterContent/Particles/P_Smoke.P_Smoke'",
 		"ImpactSound_Cue": "SoundCue'/Game/JCH/Sounds/A_Water_Cue.A_Water_Cue'",
-		"ImpactDecal": "Material'/Game/Effects/Decals/Decals_Gen1.Decals_Gen1'",
+		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
 		"DecalSize":
 		{
 			"X": 5,
 			"Y": 5,
 			"Z": 5
-		}
+		},
+		"FootstepParticleFX": "NiagaraSystem'/Game/A_Surface_Footstep/Niagara_FX/ParticleSystems/PSN_WaterLight_Surface.PSN_WaterLight_Surface'"
 	},
 	{
 		"Name": "SurfaceType4",
@@ -62,7 +66,8 @@
 			"X": 5,
 			"Y": 5,
 			"Z": 5
-		}
+		},
+		"FootstepParticleFX": "None"
 	},
 	{
 		"Name": "SurfaceType5",
@@ -75,7 +80,8 @@
 			"X": 5,
 			"Y": 5,
 			"Z": 5
-		}
+		},
+		"FootstepParticleFX": "None"
 	},
 	{
 		"Name": "SurfaceType6",
@@ -88,7 +94,8 @@
 			"X": 5,
 			"Y": 5,
 			"Z": 5
-		}
+		},
+		"FootstepParticleFX": "NiagaraSystem'/Game/A_Surface_Footstep/Niagara_FX/ParticleSystems/PSN_Grass_Surface.PSN_Grass_Surface'"
 	},
 	{
 		"Name": "SurfaceType7",
@@ -101,7 +108,8 @@
 			"X": 5,
 			"Y": 5,
 			"Z": 5
-		}
+		},
+		"FootstepParticleFX": "None"
 	},
 	{
 		"Name": "SurfaceType8",
@@ -114,7 +122,8 @@
 			"X": 5,
 			"Y": 5,
 			"Z": 5
-		}
+		},
+		"FootstepParticleFX": "NiagaraSystem'/Game/A_Surface_Footstep/Niagara_FX/ParticleSystems/PSN_SnowLight_Surface.PSN_SnowLight_Surface'"
 	},
 	{
 		"Name": "SurfaceType9",
@@ -127,7 +136,8 @@
 			"X": 5,
 			"Y": 5,
 			"Z": 5
-		}
+		},
+		"FootstepParticleFX": "None"
 	},
 	{
 		"Name": "SurfaceType10",
@@ -140,6 +150,7 @@
 			"X": 5,
 			"Y": 5,
 			"Z": 5
-		}
+		},
+		"FootstepParticleFX": "NiagaraSystem'/Game/A_Surface_Footstep/Niagara_FX/ParticleSystems/PSN_Dirt_Surface.PSN_Dirt_Surface'"
 	}
 ]

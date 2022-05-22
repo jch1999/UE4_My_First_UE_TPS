@@ -1,0 +1,145 @@
+[
+	{
+		"Name": "SurfaceType_Default",
+		"Surface": "SurfaceType_Default",
+		"ImpactParticleFX": "ParticleSystem'/Game/JCH/Particles/Generic_Impact.Generic_Impact'",
+		"ImpactSound_Cue": "SoundCue'/Game/JCH/Sounds/Impacts/Generic_Ground_Impacts.Generic_Ground_Impacts'",
+		"ImpactDecal": "Material'/Game/Effects/Decals/Decals_Gen1.Decals_Gen1'",
+		"DecalSize":
+		{
+			"X": 5,
+			"Y": 5,
+			"Z": 5
+		}
+	},
+	{
+		"Name": "SurfaceType1",
+		"Surface": "SurfaceType1",
+		"ImpactParticleFX": "ParticleSystem'/Game/MilitaryWeapSilver/FX/P_Impact_Wood_Small_01.P_Impact_Wood_Small_01'",
+		"ImpactSound_Cue": "SoundCue'/Game/JCH/Sounds/Impacts/Generic_Ground_Impacts.Generic_Ground_Impacts'",
+		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
+		"DecalSize":
+		{
+			"X": 5,
+			"Y": 5,
+			"Z": 5
+		}
+	},
+	{
+		"Name": "SurfaceType2",
+		"Surface": "SurfaceType2",
+		"ImpactParticleFX": "ParticleSystem'/Game/MilitaryWeapSilver/FX/P_Impact_Stone_Medium_01.P_Impact_Stone_Medium_01'",
+		"ImpactSound_Cue": "SoundCue'/Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue'",
+		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
+		"DecalSize":
+		{
+			"X": 5,
+			"Y": 5,
+			"Z": 5
+		}
+	},
+	{
+		"Name": "SurfaceType3",
+		"Surface": "SurfaceType3",
+		"ImpactParticleFX": "ParticleSystem'/Game/StarterContent/Particles/P_Smoke.P_Smoke'",
+		"ImpactSound_Cue": "SoundCue'/Game/JCH/Sounds/A_Water_Cue.A_Water_Cue'",
+		"ImpactDecal": "Material'/Game/Effects/Decals/Decals_Gen1.Decals_Gen1'",
+		"DecalSize":
+		{
+			"X": 5,
+			"Y": 5,
+			"Z": 5
+		}
+	},
+	{
+		"Name": "SurfaceType4",
+		"Surface": "SurfaceType4",
+		"ImpactParticleFX": "None",
+		"ImpactSound_Cue": "None",
+		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
+		"DecalSize":
+		{
+			"X": 5,
+			"Y": 5,
+			"Z": 5
+		}
+	},
+	{
+		"Name": "SurfaceType5",
+		"Surface": "SurfaceType5",
+		"ImpactParticleFX": "None",
+		"ImpactSound_Cue": "None",
+		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
+		"DecalSize":
+		{
+			"X": 5,
+			"Y": 5,
+			"Z": 5
+		}
+	},
+	{
+		"Name": "SurfaceType6",
+		"Surface": "SurfaceType6",
+		"ImpactParticleFX": "None",
+		"ImpactSound_Cue": "None",
+		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
+		"DecalSize":
+		{
+			"X": 5,
+			"Y": 5,
+			"Z": 5
+		}
+	},
+	{
+		"Name": "SurfaceType7",
+		"Surface": "SurfaceType7",
+		"ImpactParticleFX": "ParticleSystem'/Game/StarterContent/Particles/P_Explosion.P_Explosion'",
+		"ImpactSound_Cue": "SoundCue'/Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue'",
+		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
+		"DecalSize":
+		{
+			"X": 5,
+			"Y": 5,
+			"Z": 5
+		}
+	},
+	{
+		"Name": "SurfaceType8",
+		"Surface": "SurfaceType8",
+		"ImpactParticleFX": "None",
+		"ImpactSound_Cue": "None",
+		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
+		"DecalSize":
+		{
+			"X": 5,
+			"Y": 5,
+			"Z": 5
+		}
+	},
+	{
+		"Name": "SurfaceType9",
+		"Surface": "SurfaceType9",
+		"ImpactParticleFX": "ParticleSystem'/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust'",
+		"ImpactSound_Cue": "None",
+		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
+		"DecalSize":
+		{
+			"X": 5,
+			"Y": 5,
+			"Z": 5
+		}
+	},
+	{
+		"Name": "SurfaceType10",
+		"Surface": "SurfaceType10",
+		"ImpactParticleFX": "ParticleSystem'/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust'",
+		"ImpactSound_Cue": "None",
+		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
+		"DecalSize":
+		{
+			"X": 5,
+			"Y": 5,
+			"Z": 5
+		}
+	}
+]

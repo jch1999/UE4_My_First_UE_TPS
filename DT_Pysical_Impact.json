@@ -114,7 +114,7 @@
 	{
 		"Name": "SurfaceType8",
 		"Surface": "SurfaceType8",
-		"ImpactParticleFX": "ParticleSystem'/Game/JCH/Particles/Generic_Impact.Generic_Impact'",
+		"ImpactParticleFX": "ParticleSystem'/Game/StarterContent/Particles/P_Explosion.P_Explosion'",
 		"ImpactSound_Cue": "None",
 		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
 		"DecalSize":

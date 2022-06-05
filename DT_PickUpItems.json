@@ -1,0 +1,29 @@
+[
+	{
+		"Name": "Bullets",
+		"DisplayName": "M4_Bullets",
+		"bStackAble": true,
+		"MaxStackAmount": 100,
+		"Image": "Texture2D'/Game/JCH/Blueprint/InventoryManager/MT_M4A1.MT_M4A1'",
+		"Mesh": "StaticMesh'/Game/MilitaryWeapSilver/Weapons/AssaultRifleA_Ammo.AssaultRifleA_Ammo'",
+		"UseOperation": "None"
+	},
+	{
+		"Name": "HealthPack",
+		"DisplayName": "MedicalKit",
+		"bStackAble": false,
+		"MaxStackAmount": 1,
+		"Image": "Texture2D'/Game/JCH/Blueprint/InventoryManager/MT_Apple.MT_Apple'",
+		"Mesh": "StaticMesh'/Game/StarterContent/Props/SM_Statue.SM_Statue'",
+		"UseOperation": "BlueprintGeneratedClass'/Game/JCH/Blueprint/Items/PickUpItem/BP_ApplyHeal_UseOperation.BP_ApplyHeal_UseOperation_C'"
+	},
+	{
+		"Name": "NewRow_1",
+		"DisplayName": "None",
+		"bStackAble": false,
+		"MaxStackAmount": 0,
+		"Image": "None",
+		"Mesh": "None",
+		"UseOperation": "None"
+	}
+]

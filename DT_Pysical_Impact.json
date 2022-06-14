@@ -58,8 +58,8 @@
 	{
 		"Name": "SurfaceType4",
 		"Surface": "SurfaceType4",
-		"ImpactParticleFX": "None",
-		"ImpactSound_Cue": "None",
+		"ImpactParticleFX": "ParticleSystem'/Game/MilitaryWeapSilver/FX/P_Impact_Stone_Small_01.P_Impact_Stone_Small_01'",
+		"ImpactSound_Cue": "SoundCue'/Game/JCH/Sounds/Impacts/Generic_Ground_Impacts.Generic_Ground_Impacts'",
 		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
 		"DecalSize":
 		{
@@ -72,8 +72,8 @@
 	{
 		"Name": "SurfaceType5",
 		"Surface": "SurfaceType5",
-		"ImpactParticleFX": "None",
-		"ImpactSound_Cue": "None",
+		"ImpactParticleFX": "ParticleSystem'/Game/StarterContent/Particles/P_Smoke.P_Smoke'",
+		"ImpactSound_Cue": "SoundCue'/Game/JCH/Sounds/Impacts/Generic_Ground_Impacts.Generic_Ground_Impacts'",
 		"ImpactDecal": "Material'/Game/JCH/Decals/M_Decal_Test_2.M_Decal_Test_2'",
 		"DecalSize":
 		{
